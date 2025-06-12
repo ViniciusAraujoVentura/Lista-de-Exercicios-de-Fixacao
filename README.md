@@ -5,18 +5,15 @@
 
 Lista de Exercicios de Fixação
 
-- [x] Tarefa 1 (concluída)
 - [x] Tarefa 2 (concluída)
-- [x] Tarefa 3 (concluída)
-- [x] Tarefa 4 (concluída)
 
-- Exercicio_1-1 (concluído)
-- Exercicio_1-2 (concluído)
-- Exercicio_1-3 (concluído)
-- Exercicio_1-4 (concluído)
 - Exercicio_2-1 (concluído)
 - Exercicio_2-2 (concluído)
-- Exercicio_3-1 (concluído) 
-- Exercicio_3-2 (concluído)
-- Exercicio_4-1 (concluído)
-- Exercicio_4-2 (concluído)# Lista-de-Exercicios-de-Fixacao
+- Exercicio_2-3 (concluído)
+- Exercicio_2-4 (concluído)
+- Exercicio_2-5 (concluído)
+- Exercicio_2-6 (concluído)
+- Exercicio_2-7 (concluído) 
+- Exercicio_2-8 (concluído)
+- Exercicio_2-9 (concluído)
+- Exercicio_2-10 (concluído)
