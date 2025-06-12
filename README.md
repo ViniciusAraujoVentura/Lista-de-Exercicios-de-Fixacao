@@ -1,5 +1,7 @@
 # ADS Turma 2
 ## Vinicius Araujo Ventura
+### Linguagem utilizada: **JAVA**
+### Versão: **JAVA 17**
 
 Lista de Exercicios de Fixação
 
